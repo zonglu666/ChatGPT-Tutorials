@@ -1,4 +1,6 @@
-# ChatGPT 小白入门级教程
+<span id="hidden-autonumber"></span>
+
+<h1 class="article-title no-number">ChatGPT 小白入门级教程</h1>
 
 ## 课程概述
 
@@ -19,8 +21,3 @@
 - 了解 ChatGPT 的应用场景
 
 - 挖掘 ChatGPT 更多未知可能
-
-## 作者介绍
-
-- 松露，华东师范大学软件工程硕士，佛系程序员，拥有多年开发经验，曾与团队设计并训练出一款奢侈品箱包 AI 识别模型。
-- xxx

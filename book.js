@@ -13,10 +13,10 @@ if (process.env.NODE_ENV == 'dev') {
   plugins.push('livereload');
 }
 module.exports = {
-  title: '教资备考指南',
+  title: 'ChatGPT入门级小白教程',
   author: '松露老师',
   lang: 'zh-cn',
-  description: '教资备考指南',
+  description: 'ChatGPT入门级小白教程',
   plugins,
   pluginsConfig: {
     'flexible-alerts': {
@@ -73,7 +73,7 @@ module.exports = {
   variables: {
     themeLou: {
       footer: {
-        donate: {
+        donate1: {
           button: '赞赏',
           avatar:
             'http://qiniu.kujiajia.xyz/aaa-dobe/%E5%8D%A1%E9%80%9A%E8%90%8C%E5%A4%B4%E5%83%8F.png',
