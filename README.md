@@ -1,7 +1,5 @@
 <span id="hidden-autonumber"></span>
 
-<h1 class="article-title no-number">ChatGPT教程</h1>
-
 ![](assets/cover.jpg)
 
 ## 课程概述
