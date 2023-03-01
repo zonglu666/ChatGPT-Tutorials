@@ -8,4 +8,10 @@ build
 .bookignore
 .gitignore
 .prettierrc
-scripts
+.prettierignore
+DEMO.md
+版权声明.md
+考级Demo.md
+zip.js
+scratch.zip
+*.drawio
