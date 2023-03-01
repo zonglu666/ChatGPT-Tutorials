@@ -16,6 +16,6 @@
     "gitbook-plugin-flexible-alerts": "1.0.3",
     "gitbook-plugin-livereload": "0.0.1",
     "gitbook-plugin-search-pro": "2.0.2",
-    "gitbook-plugin-theme-lou": "file:../gitbook-plugin-theme-lou"
+    "gitbook-plugin-theme-lou": "1.0.3"
   }
 }

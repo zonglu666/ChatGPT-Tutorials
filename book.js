@@ -9,12 +9,11 @@ let plugins = [
   'search-pro',
   'flexible-alerts',
 ];
-if (process.env.NODE_ENV == 'dev') {
-  plugins.push('livereload');
-}
+if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
+
 module.exports = {
   title: 'ChatGPT入门级小白教程',
-  author: '松露老师',
+  author: 'Code工场',
   lang: 'zh-cn',
   description: 'ChatGPT入门级小白教程',
   plugins,
@@ -51,22 +50,22 @@ module.exports = {
       },
     },
     'theme-lou': {
-      color: '#b22222', // 主题色
+      color: '#1890FF', // 主题色
       favicon: 'assets/favicon.ico',
       logo: 'assets/logo.png',
       copyrightLogo: 'assets/copyright.png',
       autoNumber: 3, // 自动编号到几级标题
       titleColor: {
-        h1: '#dc143c',
-        h2: '#b22222',
-        h3: '#8b0000',
+        h1: '#1890FF',
+        h2: '#18A0FF',
+        h3: '#18AAFF',
       },
       forbidCopy: true,
       appleTouchIconPrecomposed152:
         'assets/apple-touch-icon-precomposed-152.png',
       'hide-elements': ['.summary .gitbook-link'],
       copyright: {
-        author: '松露老师',
+        author: 'Code工场',
       },
     },
   },
