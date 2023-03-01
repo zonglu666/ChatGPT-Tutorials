@@ -8,5 +8,4 @@
 
 - [四、ChatGPT实战应用](./4ChatGPT实战应用/README.md)
 
-- ...
 
