@@ -12,7 +12,7 @@ let plugins = [
 if (process.env.NODE_ENV == 'dev') plugins.push('livereload');
 
 module.exports = {
-  title: 'ChatGPT入门级小白教程',
+  title: 'ChatGPT教程',
   author: 'Code工场',
   lang: 'zh-cn',
   description: 'ChatGPT入门级小白教程',
@@ -52,7 +52,7 @@ module.exports = {
     'theme-lou': {
       color: '#1890FF', // 主题色
       favicon: 'assets/favicon.ico',
-      logo: 'assets/logo.png',
+      logo: 'assets/chatgpt-logo.png',
       copyrightLogo: 'assets/copyright.png',
       autoNumber: 3, // 自动编号到几级标题
       titleColor: {
