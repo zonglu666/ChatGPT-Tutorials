@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Scratch课程课件</title>
+    <link rel="stylesheet" href="../assets/ppt/dist/reset.css" />
+    <link rel="stylesheet" href="../assets/ppt/dist/reveal.css" />
+    <link rel="stylesheet" href="../assets/ppt/dist/theme/black.css" />
+    <link rel="stylesheet" href="../assets/ppt/plugin/highlight/monokai.css" />
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section
+          data-markdown="PPT.md"
+          data-separator="^\n---\n$"
+          data-separator-vertical="^\n--·--\n$"
+          data-separator-notes="^Note:"
+        ></section>
+      </div>
+    </div>
+    <script src="../assets/ppt/dist/reveal.js"></script>
+    <script src="../assets/ppt/plugin/notes/notes.js"></script>
+    <script src="../assets/ppt/plugin/markdown/markdown.js"></script>
+    <script src="../assets/ppt/plugin/highlight/highlight.js"></script>
+    <script>
+      Reveal.initialize({
+        // 是否在右下角展示控制条
+        controls: false,
+        // 展示进度条
+        progress: false,
+        // 把页号加入url
+        hash: true,
+        // 是否将幻灯片垂直居中
+        center: true,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+      });
+
+      document.onkeydown = function (e) {
+        var e = event || window.event;
+        if (e && e.keyCode == 71) {
+          // 按下G键
+          var demoVideo = document.getElementById('demo-video');
+          demoVideo && demoVideo.play();
+        }
+      };
+    </script>
+  </body>
+</html>
