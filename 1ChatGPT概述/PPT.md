@@ -94,6 +94,8 @@
 
 ---
 
+<!-- .slide: data-background="hsl(0,100%,100%)" -->
+
 #### 一个产品达到一亿用户量，需要多久？
 
 <br>
@@ -107,31 +109,8 @@
 
 ---
 
-# 背景视频
+<!-- .slide: data-background-image="assets/chatgpt-bg.jpg" data-background="hsl(0, 0%, 38%)" data-background-opacity="0.36" data-background-size="cover" -->
 
-<!-- .slide: data-background-video="assets/海底漫步.mp4" data-background-video-loop data-background-video-muted data-background-size="cover" -->
+# 未来以来<!-- .element: class="fragment" -->
 
-# 背景图片
-
-<!-- .slide: data-background-image="assets/生日蛋糕.gif" data-background="hsl(0, 0%, 75%)" data-background-opacity="0.36" data-background-size="cover" -->
-
-文字左对齐<!-- .element: style="text-align: left;" -->
-
-<!-- .slide: data-background-image="assets/生日蛋糕.gif" data-background="hsl(0, 0%, 75%)" data-background-opacity="0.36" data-background-size="80%" -->
-
----
-
-<!-- .slide: data-background="hsl(204,70%,63%)" -->
-
-## 制作海底漫步游戏
-
-<img src="assets/海底漫步.gif" style="height:360px;" />
-
-<video 
- src="assets/冰雪奇缘.mp4"
- id="demo-video"
- autoplay="autoplay"
- loop="loop"
- muted="muted"
- height="360px">
-</video>
+## 你准备好了吗？<!-- .element: class="fragment" -->
