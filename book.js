@@ -53,7 +53,7 @@ module.exports = {
       color: '#1890FF', // 主题色
       favicon: 'assets/favicon.ico',
       logo: 'assets/chatgpt-logo.png',
-      copyrightLogo: 'assets/copyright.png',
+      copyrightLogo: 'assets/copyright-code.png',
       autoNumber: 3, // 自动编号到几级标题
       titleColor: {
         h1: '#1890FF',

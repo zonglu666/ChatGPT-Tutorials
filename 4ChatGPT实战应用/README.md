@@ -1,4 +1,4 @@
-<h1 class="article-title no-number">四、ChatGPT技巧</h1>
+<h1 class="article-title no-number">第四章 ChatGPT实战应用</h1>
 
 ChatGPT 实际应用的**金科玉律**：
 

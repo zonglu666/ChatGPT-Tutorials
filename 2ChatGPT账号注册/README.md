@@ -1,4 +1,4 @@
-<h1 class="article-title no-number">二、ChatGPT注册</h1>
+<h1 class="article-title no-number">第二章 ChatGPT账号注册</h1>
 
 # 睁眼看世界
 
