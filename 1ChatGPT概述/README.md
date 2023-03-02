@@ -1,5 +1,7 @@
 <h1 class="article-title no-number">第一章 ChatGPT概述</h1>
 
+<img src="assets/MommyTalk1677722278957.png" alt="MommyTalk1677722278957" style="width:380px;" />
+
 # 什么是GPT
 
 2018 年 6 月，OpenAI 发表论文介绍了自己的语言模型——GPT，即「Generative Pre-Training Transformer」。
