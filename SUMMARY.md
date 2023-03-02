@@ -8,3 +8,5 @@
 
 - [四、ChatGPT实战应用](./4ChatGPT实战应用/README.md)
 
+- [五、ChatGPT接口开发](./5ChatGPT接口/README.md)
+
