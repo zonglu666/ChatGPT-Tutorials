@@ -38,7 +38,7 @@
 # ChatGPT 服务
 
 - 回答高质量的问题<!-- .element: class="fragment" style="text-align: left;" -->
-- 编写文章、信件、故事<!-- .element: class="fragment" style="text-align: left;" -->
+- 编写稿件、文章、故事<!-- .element: class="fragment" style="text-align: left;" -->
 - 提供建议、专家指导<!-- .element: class="fragment" style="text-align: left;" -->
 - 外文翻译、语法纠错<!-- .element: class="fragment" style="text-align: left;" -->
 - more...<!-- .element: class="fragment" style="text-align: left;" -->

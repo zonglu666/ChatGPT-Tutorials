@@ -6,7 +6,8 @@
   "scripts": {
     "serve": "NODE_ENV=dev gitbook serve",
     "build": "gitbook build",
-    "upload": "sh ./scripts/upload.sh"
+    "upload": "sh ./scripts/upload.sh",
+    "qn": "node ./code/qn.js"
   },
   "author": "ZongLou",
   "license": "ISC",
