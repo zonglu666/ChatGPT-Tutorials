@@ -8,5 +8,7 @@
 
 - [第四章 ChatGPT实战应用](./4ChatGPT实战应用/README.md)
 
+- [第五章 ChatGPT变现方式](./5ChatGPT变现方式/README.md)
+
 - [附录 常见问题汇总](./常见问题汇总/README.md)
 
